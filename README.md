@@ -10,4 +10,4 @@ Image Processing Tool Box required
        most  contrast  between  the desired  object  (foreground)  and  the  background.         
   iii. There is quite a bit of “noise” and we need to clean the image up significantly to improve the accuracy of our diameter measurement. 
 3. The "regionprops" function is  the  tool  that  will  providethe MajorAxisLengthof  the  blob  in  the image.        
-4. As a result the diameter is displayed/.
+4. As a result the diameter is displayed.
